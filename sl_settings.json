@@ -1,0 +1,16 @@
+{
+    "description": "uartprobe is a program that connects any UART port to the STDIO for reading and writing.",
+    "github": "https://github.com/StratifyLabs/spitool",
+    "isBeta": true,
+    "name": "spitool",
+    "permissions": "public",
+    "publisher": "Stratify Labs, Inc",
+    "tags": "tool",
+    "type": "app",
+    "uid": "9cQyOTk3fZXOuMtPyf5j9X4H4b83",
+    "version": "1.2",
+    "hardwareId": "",
+    "ramSize": 0,
+    "timestamp": 1552190706,
+    "documentId": "Sy1bmH3rTo8qqkJXFiVq"
+}

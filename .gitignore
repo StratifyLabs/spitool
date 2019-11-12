@@ -1,3 +1,4 @@
 
 cmake_arm/
 build_*
+CMakeLists.txt.user
